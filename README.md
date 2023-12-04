@@ -95,4 +95,4 @@ layar menggunakan pernyataan echo.
 
 ## Done
 
-# Panjang Umur Untuk Semua Hal-Hal Baik
+# Terima Kasih^^
